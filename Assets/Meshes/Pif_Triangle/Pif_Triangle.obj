@@ -1,0 +1,22 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = meters
+
+mtllib Pif_Triangle.mtl
+
+g Mesh1 Model
+
+usemtl FrontColor
+v -1.70532 -1.15758 -0
+vt 67.1386 -45.574
+vn 0 0 -1
+v 0.79468 3.17255 -0
+vt -31.2866 124.903
+v 0.79468 -1.15758 -0
+vt -31.2866 -45.574
+f 1/1/1 2/2/1 3/3/1
+
+usemtl BackColor
+vn -0 -0 1
+f 3/3/2 2/2/2 1/1/2
+
